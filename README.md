@@ -16,8 +16,6 @@ with `Typescript` with `finnhub-js` lib and the `Free Mobile API`
 ## Requirements
 
 To make this script work properly you need these environment variables:
-> `FREE_USER`that is your Free Mobile ID
-
-> `FREE_TOKEN` that is the token given on [this site](https://mobile.free.fr/account/)
-
-> `FINNHUB_TOKEN` that is the token given on [this site](https://finnhub.io/dashboard)
+- `FREE_USER`that is your Free Mobile ID
+- `FREE_TOKEN` that is the token given on [this site](https://mobile.free.fr/account/)
+- `FINNHUB_TOKEN` that is the token given on [this site](https://finnhub.io/dashboard)
