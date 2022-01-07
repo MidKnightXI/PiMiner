@@ -32,7 +32,7 @@ async function sendMessage(msg) {
 
 async function main() {
   const infos = await getSystemInfos()
-  const message = `Hello master, here's the infos you asked for your machine:\n\n` +
+  const message = `Hello master, here's the infos you requested about your machine:\n\n` +
   `  CPU name: ${infos.brand}\n  Average Speed: ${infos.avg_speed}Ghz\n  Overall Temperature: ${infos.main_temps}\n` +
   `  Chipset Temperature: ${infos.chipset_temp}\n  Uptime: ${infos.uptime} minutes\n\nHave a good day.`
   sendMessage(message)
