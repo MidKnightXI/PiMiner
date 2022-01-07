@@ -11,7 +11,7 @@ and the system on the phone number of the owner.
 ## What am I using ?
 
 I'm building the app that is going to send the messages on the state of what is happening on the Pi
-with `Typescript` with `finnhub-js` lib and the `Free Mobile API`
+with `NodeJS` with `finnhub-js` lib and the `Free Mobile API`
 
 ## Requirements
 
