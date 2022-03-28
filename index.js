@@ -1,5 +1,6 @@
 import { cpu, cpuCurrentSpeed, cpuTemperature, time } from 'systeminformation';
 import fetch from 'node-fetch'
+import 'dotenv/config'
 
 main()
 
