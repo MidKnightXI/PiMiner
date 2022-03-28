@@ -5,8 +5,7 @@ cryptocurrency.
 
 ## What is PiMiner ?
 
-PiMiner is a Raspeberry Pi mining Monero and sending infos about the state of the currency
-and the system on the phone number of the owner.
+PiMiner is a Raspeberry Pi mining Monero and sending infos about the state of the system by SMS to it's owner.
 
 ## What am I using ?
 
